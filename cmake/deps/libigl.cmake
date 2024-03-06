@@ -22,7 +22,7 @@ include(CPM)
 CPMAddPackage(
     NAME libigl
     GITHUB_REPOSITORY libigl/libigl
-    VERSION 2.5.0
+    VERSION 2.4.0
     OPTIONS LIBIGL_WITH_CGAL
 )
 
